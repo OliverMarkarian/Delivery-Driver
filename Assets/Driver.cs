@@ -7,7 +7,7 @@ public class Driver : MonoBehaviour
 
     [SerializeField] float steerSpeed = 350f;
     [SerializeField] float moveSpeed = 2000f;
-    [SerializeField] float slowSpeed = 1500f;
+    [SerializeField] float slowSpeed = 2000f;
     [SerializeField] float boostSpeed = 2500f;
     void Start()
     {
